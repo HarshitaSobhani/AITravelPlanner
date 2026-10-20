@@ -1,0 +1,1407 @@
+[
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "country_name": "France",
+    "country_code": "FR",
+    "currency_code": "EUR",
+    "timezone": "Europe/Paris",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "best_season": "Spring and early autumn are generally milder; summer is busiest.",
+    "summary": "France's capital on the Seine, known for its museums, boulevards, cafés and historic monuments.",
+    "places": [
+      {
+        "slug": "eiffel-tower",
+        "name": "Eiffel Tower",
+        "category": "architecture",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 48.8584,
+        "longitude": 2.2945,
+        "suggested_duration_minutes": 120,
+        "popularity": 95,
+        "neighbourhood": "Champ de Mars",
+        "description": "Wrought-iron lattice tower completed in 1889 on the Champ de Mars.",
+        "osm_ref": "way/5013364",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "louvre-museum",
+        "name": "Louvre Museum",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "history"
+        ],
+        "latitude": 48.8606,
+        "longitude": 2.3376,
+        "suggested_duration_minutes": 180,
+        "popularity": 95,
+        "neighbourhood": "1st arrondissement",
+        "description": "One of the world's largest art museums, housed in a former royal palace.",
+        "osm_ref": "relation/7515426",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "musee-d-orsay",
+        "name": "Musée d'Orsay",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "architecture"
+        ],
+        "latitude": 48.86,
+        "longitude": 2.3266,
+        "suggested_duration_minutes": 120,
+        "popularity": 85,
+        "neighbourhood": "7th arrondissement",
+        "description": "Museum in a former railway station, focused on 19th- and early 20th-century art.",
+        "osm_ref": "way/63178753",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "notre-dame-de-paris",
+        "name": "Notre-Dame de Paris",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 48.853,
+        "longitude": 2.3499,
+        "suggested_duration_minutes": 60,
+        "popularity": 85,
+        "neighbourhood": "Île de la Cité",
+        "description": "Medieval Catholic cathedral on the Île de la Cité.",
+        "osm_ref": "way/201611261",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "sainte-chapelle",
+        "name": "Sainte-Chapelle",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 48.8554,
+        "longitude": 2.345,
+        "suggested_duration_minutes": 60,
+        "popularity": 75,
+        "neighbourhood": "Île de la Cité",
+        "description": "13th-century royal chapel known for its stained glass.",
+        "osm_ref": "relation/3344870",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "jardin-du-luxembourg",
+        "name": "Jardin du Luxembourg",
+        "category": "park",
+        "interests": [
+          "nature",
+          "relaxation"
+        ],
+        "latitude": 48.8462,
+        "longitude": 2.3372,
+        "suggested_duration_minutes": 90,
+        "popularity": 80,
+        "neighbourhood": "6th arrondissement",
+        "description": "Public garden surrounding the Luxembourg Palace.",
+        "osm_ref": "way/128206209",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "sacre-cur-and-montmartre",
+        "name": "Sacré-Cœur and Montmartre",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history",
+          "nightlife"
+        ],
+        "latitude": 48.8867,
+        "longitude": 2.3431,
+        "suggested_duration_minutes": 120,
+        "popularity": 85,
+        "neighbourhood": "Montmartre",
+        "description": "Hilltop basilica and the surrounding artists' quarter."
+      },
+      {
+        "slug": "shakespeare-and-company",
+        "name": "Shakespeare and Company",
+        "category": "bookshop",
+        "interests": [
+          "literature",
+          "shopping"
+        ],
+        "latitude": 48.8526,
+        "longitude": 2.3471,
+        "suggested_duration_minutes": 45,
+        "popularity": 75,
+        "neighbourhood": "5th arrondissement",
+        "description": "Independent English-language bookshop on the Left Bank.",
+        "osm_ref": "node/251373380",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "pere-lachaise-cemetery",
+        "name": "Père Lachaise Cemetery",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "literature",
+          "nature"
+        ],
+        "latitude": 48.8614,
+        "longitude": 2.3933,
+        "suggested_duration_minutes": 120,
+        "popularity": 70,
+        "neighbourhood": "20th arrondissement",
+        "description": "Large garden cemetery with many notable burials.",
+        "osm_ref": "way/13859706",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "marche-des-enfants-rouges",
+        "name": "Marché des Enfants Rouges",
+        "category": "market",
+        "interests": [
+          "food"
+        ],
+        "latitude": 48.8631,
+        "longitude": 2.3622,
+        "suggested_duration_minutes": 60,
+        "popularity": 65,
+        "neighbourhood": "Marais",
+        "description": "Covered food market in the Marais.",
+        "osm_ref": "node/3200443067",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "arc-de-triomphe",
+        "name": "Arc de Triomphe",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 48.8738,
+        "longitude": 2.295,
+        "suggested_duration_minutes": 60,
+        "popularity": 80,
+        "neighbourhood": "8th arrondissement",
+        "description": "Triumphal arch at the western end of the Champs-Élysées.",
+        "osm_ref": "way/226413508",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "palais-garnier",
+        "name": "Palais Garnier",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "museums"
+        ],
+        "latitude": 48.872,
+        "longitude": 2.3316,
+        "suggested_duration_minutes": 60,
+        "popularity": 70,
+        "neighbourhood": "9th arrondissement",
+        "description": "19th-century opera house.",
+        "osm_ref": "node/1393155090",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "canal-saint-martin",
+        "name": "Canal Saint-Martin",
+        "category": "park",
+        "interests": [
+          "relaxation",
+          "nightlife",
+          "food"
+        ],
+        "latitude": 48.871,
+        "longitude": 2.364,
+        "suggested_duration_minutes": 75,
+        "popularity": 60,
+        "neighbourhood": "10th arrondissement",
+        "description": "Canal lined with cafés and footbridges.",
+        "osm_ref": "relation/1164565",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "galeries-lafayette-haussmann",
+        "name": "Galeries Lafayette Haussmann",
+        "category": "shopping",
+        "interests": [
+          "shopping",
+          "architecture"
+        ],
+        "latitude": 48.8738,
+        "longitude": 2.332,
+        "suggested_duration_minutes": 90,
+        "popularity": 60,
+        "neighbourhood": "9th arrondissement",
+        "description": "Department store known for its stained-glass dome.",
+        "osm_ref": "way/69224062",
+        "verified_on": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "slug": "rome",
+    "name": "Rome",
+    "country_name": "Italy",
+    "country_code": "IT",
+    "currency_code": "EUR",
+    "timezone": "Europe/Rome",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "best_season": "Spring and autumn are comfortable; midsummer is hot and crowded.",
+    "summary": "Italy's capital, with layers of ancient, medieval, Renaissance and baroque history.",
+    "places": [
+      {
+        "slug": "colosseum",
+        "name": "Colosseum",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 41.8902,
+        "longitude": 12.4922,
+        "suggested_duration_minutes": 120,
+        "popularity": 98,
+        "neighbourhood": "Celio",
+        "description": "Ancient amphitheatre in the centre of Rome.",
+        "osm_ref": "relation/1834818",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "roman-forum",
+        "name": "Roman Forum",
+        "category": "landmark",
+        "interests": [
+          "history"
+        ],
+        "latitude": 41.8925,
+        "longitude": 12.4853,
+        "suggested_duration_minutes": 90,
+        "popularity": 90,
+        "neighbourhood": "Campitelli",
+        "description": "Ruins of the civic centre of ancient Rome.",
+        "osm_ref": "relation/1841080",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "pantheon",
+        "name": "Pantheon",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 41.8986,
+        "longitude": 12.4769,
+        "suggested_duration_minutes": 45,
+        "popularity": 92,
+        "neighbourhood": "Pigna",
+        "description": "Ancient Roman temple, later a church, with a large unreinforced dome.",
+        "osm_ref": "relation/3374342",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "trevi-fountain",
+        "name": "Trevi Fountain",
+        "category": "landmark",
+        "interests": [
+          "architecture"
+        ],
+        "latitude": 41.9009,
+        "longitude": 12.4833,
+        "suggested_duration_minutes": 30,
+        "popularity": 90,
+        "neighbourhood": "Trevi",
+        "description": "18th-century baroque fountain.",
+        "osm_ref": "relation/13448560",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "vatican-museums",
+        "name": "Vatican Museums",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "history"
+        ],
+        "latitude": 41.9065,
+        "longitude": 12.4536,
+        "suggested_duration_minutes": 180,
+        "popularity": 92,
+        "neighbourhood": "Vatican City",
+        "description": "Papal art and antiquities collections, including the Sistine Chapel."
+      },
+      {
+        "slug": "st-peter-s-basilica",
+        "name": "St. Peter's Basilica",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 41.9022,
+        "longitude": 12.4539,
+        "suggested_duration_minutes": 90,
+        "popularity": 92,
+        "neighbourhood": "Vatican City",
+        "description": "Renaissance basilica in Vatican City."
+      },
+      {
+        "slug": "piazza-navona",
+        "name": "Piazza Navona",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "food",
+          "nightlife"
+        ],
+        "latitude": 41.8992,
+        "longitude": 12.4731,
+        "suggested_duration_minutes": 45,
+        "popularity": 80,
+        "neighbourhood": "Parione",
+        "description": "Baroque public square with fountains.",
+        "osm_ref": "way/4247138",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "villa-borghese-gardens",
+        "name": "Villa Borghese Gardens",
+        "category": "park",
+        "interests": [
+          "nature",
+          "relaxation"
+        ],
+        "latitude": 41.9142,
+        "longitude": 12.4923,
+        "suggested_duration_minutes": 90,
+        "popularity": 75,
+        "neighbourhood": "Pinciano",
+        "description": "Large landscaped public park."
+      },
+      {
+        "slug": "trastevere",
+        "name": "Trastevere",
+        "category": "neighbourhood",
+        "interests": [
+          "food",
+          "nightlife",
+          "history"
+        ],
+        "latitude": 41.8896,
+        "longitude": 12.4695,
+        "suggested_duration_minutes": 120,
+        "popularity": 80,
+        "neighbourhood": "Trastevere",
+        "description": "Neighbourhood of narrow streets west of the Tiber.",
+        "osm_ref": "relation/2529081",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "campo-de-fiori",
+        "name": "Campo de' Fiori",
+        "category": "market",
+        "interests": [
+          "food",
+          "shopping"
+        ],
+        "latitude": 41.8956,
+        "longitude": 12.4722,
+        "suggested_duration_minutes": 60,
+        "popularity": 65,
+        "neighbourhood": "Parione",
+        "description": "Square hosting a daily morning market.",
+        "osm_ref": "way/4949430",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "keats-shelley-house",
+        "name": "Keats-Shelley House",
+        "category": "museum",
+        "interests": [
+          "literature",
+          "museums"
+        ],
+        "latitude": 41.9059,
+        "longitude": 12.4823,
+        "suggested_duration_minutes": 45,
+        "popularity": 55,
+        "neighbourhood": "Piazza di Spagna",
+        "description": "Museum beside the Spanish Steps dedicated to Romantic poets.",
+        "osm_ref": "way/202110420",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "capitoline-museums",
+        "name": "Capitoline Museums",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "history"
+        ],
+        "latitude": 41.8933,
+        "longitude": 12.4828,
+        "suggested_duration_minutes": 120,
+        "popularity": 80,
+        "neighbourhood": "Campidoglio",
+        "description": "Museums of ancient sculpture and art on the Capitoline Hill.",
+        "osm_ref": "relation/9909127",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "via-del-corso",
+        "name": "Via del Corso",
+        "category": "shopping",
+        "interests": [
+          "shopping"
+        ],
+        "latitude": 41.902,
+        "longitude": 12.4793,
+        "suggested_duration_minutes": 60,
+        "popularity": 50,
+        "neighbourhood": "Centro Storico",
+        "description": "Main shopping street running north from Piazza Venezia.",
+        "osm_ref": "way/49305153",
+        "verified_on": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "country_name": "Japan",
+    "country_code": "JP",
+    "currency_code": "JPY",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.0116,
+    "longitude": 135.7681,
+    "best_season": "Spring blossom and autumn foliage are popular; summers are hot and humid.",
+    "summary": "Former imperial capital with temples, gardens, wooden townhouses and traditional food culture.",
+    "places": [
+      {
+        "slug": "fushimi-inari-taisha",
+        "name": "Fushimi Inari Taisha",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "nature"
+        ],
+        "latitude": 34.9671,
+        "longitude": 135.7727,
+        "suggested_duration_minutes": 120,
+        "popularity": 95,
+        "neighbourhood": "Fushimi",
+        "description": "Shinto shrine famous for thousands of torii gates up Mount Inari."
+      },
+      {
+        "slug": "kinkaku-ji",
+        "name": "Kinkaku-ji",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 35.0394,
+        "longitude": 135.7292,
+        "suggested_duration_minutes": 60,
+        "popularity": 92,
+        "neighbourhood": "Kita",
+        "description": "Zen temple with a gold-leaf pavilion.",
+        "osm_ref": "way/98115917",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "kiyomizu-dera",
+        "name": "Kiyomizu-dera",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 34.9949,
+        "longitude": 135.785,
+        "suggested_duration_minutes": 90,
+        "popularity": 92,
+        "neighbourhood": "Higashiyama",
+        "description": "Hillside temple with a large wooden veranda.",
+        "osm_ref": "way/336641107",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "arashiyama-bamboo-grove",
+        "name": "Arashiyama Bamboo Grove",
+        "category": "park",
+        "interests": [
+          "nature"
+        ],
+        "latitude": 35.017,
+        "longitude": 135.6713,
+        "suggested_duration_minutes": 75,
+        "popularity": 85,
+        "neighbourhood": "Arashiyama",
+        "description": "Path through a dense bamboo forest.",
+        "osm_ref": "relation/17656638",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "nishiki-market",
+        "name": "Nishiki Market",
+        "category": "market",
+        "interests": [
+          "food",
+          "shopping"
+        ],
+        "latitude": 35.005,
+        "longitude": 135.7649,
+        "suggested_duration_minutes": 90,
+        "popularity": 85,
+        "neighbourhood": "Nakagyo",
+        "description": "Narrow covered food market.",
+        "osm_ref": "way/772134672",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "gion",
+        "name": "Gion",
+        "category": "neighbourhood",
+        "interests": [
+          "history",
+          "food",
+          "nightlife"
+        ],
+        "latitude": 35.0037,
+        "longitude": 135.7756,
+        "suggested_duration_minutes": 90,
+        "popularity": 85,
+        "neighbourhood": "Higashiyama",
+        "description": "Historic district of traditional wooden buildings and tea houses.",
+        "osm_ref": "relation/9541222",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "nijo-castle",
+        "name": "Nijō Castle",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 35.0142,
+        "longitude": 135.7482,
+        "suggested_duration_minutes": 90,
+        "popularity": 80,
+        "neighbourhood": "Nakagyo",
+        "description": "Edo-period castle with \"nightingale\" floors.",
+        "osm_ref": "way/57111281",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "kyoto-national-museum",
+        "name": "Kyoto National Museum",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "history"
+        ],
+        "latitude": 34.99,
+        "longitude": 135.7727,
+        "suggested_duration_minutes": 120,
+        "popularity": 65,
+        "neighbourhood": "Higashiyama",
+        "description": "Museum of Japanese and Asian art and artefacts.",
+        "osm_ref": "way/31843043",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "philosopher-s-path",
+        "name": "Philosopher's Path",
+        "category": "park",
+        "interests": [
+          "nature",
+          "relaxation"
+        ],
+        "latitude": 35.027,
+        "longitude": 135.7948,
+        "suggested_duration_minutes": 75,
+        "popularity": 70,
+        "neighbourhood": "Sakyo",
+        "description": "Canal-side walking path lined with cherry trees."
+      },
+      {
+        "slug": "ginkaku-ji",
+        "name": "Ginkaku-ji",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 35.027,
+        "longitude": 135.7982,
+        "suggested_duration_minutes": 60,
+        "popularity": 80,
+        "neighbourhood": "Sakyo",
+        "description": "Zen temple with a moss garden and sand garden.",
+        "osm_ref": "way/105817561",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "kyoto-international-manga-museum",
+        "name": "Kyoto International Manga Museum",
+        "category": "museum",
+        "interests": [
+          "literature",
+          "museums"
+        ],
+        "latitude": 35.0117,
+        "longitude": 135.7608,
+        "suggested_duration_minutes": 90,
+        "popularity": 55,
+        "neighbourhood": "Nakagyo",
+        "description": "Museum and library of manga in a former school building.",
+        "osm_ref": "node/11830474161",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "pontocho-alley",
+        "name": "Pontocho Alley",
+        "category": "neighbourhood",
+        "interests": [
+          "nightlife",
+          "food"
+        ],
+        "latitude": 35.0057,
+        "longitude": 135.7712,
+        "suggested_duration_minutes": 90,
+        "popularity": 70,
+        "neighbourhood": "Nakagyo",
+        "description": "Narrow lantern-lit alley of restaurants and bars.",
+        "osm_ref": "way/542888416",
+        "verified_on": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "slug": "lisbon",
+    "name": "Lisbon",
+    "country_name": "Portugal",
+    "country_code": "PT",
+    "currency_code": "EUR",
+    "timezone": "Europe/Lisbon",
+    "latitude": 38.7223,
+    "longitude": -9.1393,
+    "best_season": "Spring and autumn are mild; summers are warm and dry.",
+    "summary": "Hilly Portuguese capital on the Tagus with tiled facades, viewpoints and trams.",
+    "places": [
+      {
+        "slug": "belem-tower",
+        "name": "Belém Tower",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 38.6916,
+        "longitude": -9.216,
+        "suggested_duration_minutes": 60,
+        "popularity": 88,
+        "neighbourhood": "Belém",
+        "description": "16th-century fortified tower on the Tagus.",
+        "osm_ref": "way/24341353",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "jeronimos-monastery",
+        "name": "Jerónimos Monastery",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 38.6979,
+        "longitude": -9.2068,
+        "suggested_duration_minutes": 90,
+        "popularity": 90,
+        "neighbourhood": "Belém",
+        "description": "Manueline-style monastery.",
+        "osm_ref": "relation/11318514",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "castelo-de-sao-jorge",
+        "name": "Castelo de São Jorge",
+        "category": "landmark",
+        "interests": [
+          "history"
+        ],
+        "latitude": 38.7139,
+        "longitude": -9.1334,
+        "suggested_duration_minutes": 90,
+        "popularity": 85,
+        "neighbourhood": "Santa Maria Maior",
+        "description": "Medieval hilltop castle with city views.",
+        "osm_ref": "way/1382432568",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "alfama",
+        "name": "Alfama",
+        "category": "neighbourhood",
+        "interests": [
+          "history",
+          "food",
+          "nightlife"
+        ],
+        "latitude": 38.711,
+        "longitude": -9.1296,
+        "suggested_duration_minutes": 120,
+        "popularity": 85,
+        "neighbourhood": "Alfama",
+        "description": "Lisbon's oldest district of winding lanes.",
+        "osm_ref": "node/207597971",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "lx-factory",
+        "name": "LX Factory",
+        "category": "shopping",
+        "interests": [
+          "shopping",
+          "food"
+        ],
+        "latitude": 38.703,
+        "longitude": -9.178,
+        "suggested_duration_minutes": 90,
+        "popularity": 65,
+        "neighbourhood": "Alcântara",
+        "description": "Creative complex of shops, cafés and studios in former industrial buildings.",
+        "osm_ref": "way/221960606",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "time-out-market-lisbon",
+        "name": "Time Out Market Lisbon",
+        "category": "market",
+        "interests": [
+          "food"
+        ],
+        "latitude": 38.7066,
+        "longitude": -9.1457,
+        "suggested_duration_minutes": 75,
+        "popularity": 70,
+        "neighbourhood": "Cais do Sodré",
+        "description": "Food hall in the Mercado da Ribeira.",
+        "osm_ref": "way/1286260412",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "national-tile-museum",
+        "name": "National Tile Museum",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "history"
+        ],
+        "latitude": 38.7242,
+        "longitude": -9.1137,
+        "suggested_duration_minutes": 90,
+        "popularity": 65,
+        "neighbourhood": "Beato",
+        "description": "Museum of Portuguese azulejo tiles in a former convent.",
+        "osm_ref": "way/1451054092",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "miradouro-da-senhora-do-monte",
+        "name": "Miradouro da Senhora do Monte",
+        "category": "park",
+        "interests": [
+          "relaxation",
+          "nature"
+        ],
+        "latitude": 38.7196,
+        "longitude": -9.1329,
+        "suggested_duration_minutes": 45,
+        "popularity": 65,
+        "neighbourhood": "Graça",
+        "description": "Hilltop viewpoint over the city.",
+        "osm_ref": "node/14243536001",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "bairro-alto",
+        "name": "Bairro Alto",
+        "category": "neighbourhood",
+        "interests": [
+          "nightlife",
+          "food"
+        ],
+        "latitude": 38.7133,
+        "longitude": -9.1451,
+        "suggested_duration_minutes": 120,
+        "popularity": 70,
+        "neighbourhood": "Bairro Alto",
+        "description": "Neighbourhood known for evening bars and restaurants.",
+        "osm_ref": "way/945072679",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "livraria-bertrand-chiado",
+        "name": "Livraria Bertrand Chiado",
+        "category": "bookshop",
+        "interests": [
+          "literature",
+          "shopping"
+        ],
+        "latitude": 38.7106,
+        "longitude": -9.1423,
+        "suggested_duration_minutes": 45,
+        "popularity": 55,
+        "neighbourhood": "Chiado",
+        "description": "Bookshop operating since the 18th century.",
+        "osm_ref": "node/4398508489",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "praca-do-comercio",
+        "name": "Praça do Comércio",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 38.7075,
+        "longitude": -9.1364,
+        "suggested_duration_minutes": 45,
+        "popularity": 75,
+        "neighbourhood": "Baixa",
+        "description": "Large waterfront square.",
+        "osm_ref": "way/677181958",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "jardim-da-estrela",
+        "name": "Jardim da Estrela",
+        "category": "park",
+        "interests": [
+          "nature",
+          "relaxation"
+        ],
+        "latitude": 38.7133,
+        "longitude": -9.1597,
+        "suggested_duration_minutes": 60,
+        "popularity": 55,
+        "neighbourhood": "Estrela",
+        "description": "Public garden opposite the Estrela Basilica.",
+        "osm_ref": "way/23697561",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "calouste-gulbenkian-museum",
+        "name": "Calouste Gulbenkian Museum",
+        "category": "museum",
+        "interests": [
+          "museums"
+        ],
+        "latitude": 38.737,
+        "longitude": -9.1536,
+        "suggested_duration_minutes": 120,
+        "popularity": 75,
+        "neighbourhood": "Avenidas Novas",
+        "description": "Art museum with a broad private collection.",
+        "osm_ref": "relation/17036063",
+        "verified_on": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "currency_code": "GBP",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "best_season": "Late spring to early autumn is generally mildest; rain is possible year-round.",
+    "summary": "UK capital on the Thames, with major museums, markets, parks and historic landmarks.",
+    "places": [
+      {
+        "slug": "british-museum",
+        "name": "British Museum",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "history"
+        ],
+        "latitude": 51.5194,
+        "longitude": -0.127,
+        "suggested_duration_minutes": 180,
+        "popularity": 95,
+        "neighbourhood": "Bloomsbury",
+        "description": "Museum of world history and culture.",
+        "osm_ref": "relation/177044",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "tower-of-london",
+        "name": "Tower of London",
+        "category": "landmark",
+        "interests": [
+          "history"
+        ],
+        "latitude": 51.5081,
+        "longitude": -0.0759,
+        "suggested_duration_minutes": 150,
+        "popularity": 92,
+        "neighbourhood": "Tower Hamlets",
+        "description": "Historic castle on the north bank of the Thames.",
+        "osm_ref": "way/370870741",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "westminster-abbey",
+        "name": "Westminster Abbey",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 51.4993,
+        "longitude": -0.1273,
+        "suggested_duration_minutes": 90,
+        "popularity": 88,
+        "neighbourhood": "Westminster",
+        "description": "Gothic abbey church, coronation site.",
+        "osm_ref": "way/364313092",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "tate-modern",
+        "name": "Tate Modern",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "architecture"
+        ],
+        "latitude": 51.5076,
+        "longitude": -0.0994,
+        "suggested_duration_minutes": 120,
+        "popularity": 85,
+        "neighbourhood": "Bankside",
+        "description": "Modern art museum in a former power station.",
+        "osm_ref": "way/24642569",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "borough-market",
+        "name": "Borough Market",
+        "category": "market",
+        "interests": [
+          "food"
+        ],
+        "latitude": 51.5055,
+        "longitude": -0.091,
+        "suggested_duration_minutes": 75,
+        "popularity": 80,
+        "neighbourhood": "Southwark",
+        "description": "Food market near London Bridge.",
+        "osm_ref": "way/24282400",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "hyde-park",
+        "name": "Hyde Park",
+        "category": "park",
+        "interests": [
+          "nature",
+          "relaxation"
+        ],
+        "latitude": 51.5073,
+        "longitude": -0.1657,
+        "suggested_duration_minutes": 90,
+        "popularity": 80,
+        "neighbourhood": "Westminster",
+        "description": "Large royal park in central London.",
+        "osm_ref": "way/372975520",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "covent-garden",
+        "name": "Covent Garden",
+        "category": "shopping",
+        "interests": [
+          "shopping",
+          "food"
+        ],
+        "latitude": 51.5129,
+        "longitude": -0.1243,
+        "suggested_duration_minutes": 90,
+        "popularity": 70,
+        "neighbourhood": "Covent Garden",
+        "description": "Piazza with shops, restaurants and street performers.",
+        "osm_ref": "node/6400752013",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "shakespeare-s-globe",
+        "name": "Shakespeare's Globe",
+        "category": "landmark",
+        "interests": [
+          "literature",
+          "history"
+        ],
+        "latitude": 51.5081,
+        "longitude": -0.0972,
+        "suggested_duration_minutes": 90,
+        "popularity": 65,
+        "neighbourhood": "Bankside",
+        "description": "Reconstruction of the Elizabethan playhouse.",
+        "osm_ref": "relation/1239793",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "british-library",
+        "name": "British Library",
+        "category": "museum",
+        "interests": [
+          "literature",
+          "museums"
+        ],
+        "latitude": 51.5299,
+        "longitude": -0.127,
+        "suggested_duration_minutes": 75,
+        "popularity": 65,
+        "neighbourhood": "King's Cross",
+        "description": "National library with a public exhibition gallery.",
+        "osm_ref": "way/4680891",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "soho",
+        "name": "Soho",
+        "category": "neighbourhood",
+        "interests": [
+          "nightlife",
+          "food"
+        ],
+        "latitude": 51.5136,
+        "longitude": -0.1337,
+        "suggested_duration_minutes": 120,
+        "popularity": 70,
+        "neighbourhood": "Soho",
+        "description": "Central district of restaurants, bars and theatres.",
+        "osm_ref": "relation/17710512",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "royal-botanic-gardens-kew",
+        "name": "Royal Botanic Gardens, Kew",
+        "category": "park",
+        "interests": [
+          "nature",
+          "relaxation"
+        ],
+        "latitude": 51.4787,
+        "longitude": -0.2956,
+        "suggested_duration_minutes": 180,
+        "popularity": 75,
+        "neighbourhood": "Kew",
+        "description": "Botanical gardens and glasshouses."
+      },
+      {
+        "slug": "tower-bridge",
+        "name": "Tower Bridge",
+        "category": "landmark",
+        "interests": [
+          "architecture"
+        ],
+        "latitude": 51.5055,
+        "longitude": -0.0754,
+        "suggested_duration_minutes": 45,
+        "popularity": 85,
+        "neighbourhood": "Tower Hamlets",
+        "description": "Victorian bascule and suspension bridge.",
+        "osm_ref": "way/378541210",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "st-paul-s-cathedral",
+        "name": "St Paul's Cathedral",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history"
+        ],
+        "latitude": 51.5138,
+        "longitude": -0.0984,
+        "suggested_duration_minutes": 75,
+        "popularity": 80,
+        "neighbourhood": "City of London",
+        "description": "Baroque cathedral with a large dome.",
+        "osm_ref": "way/369161987",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "camden-market",
+        "name": "Camden Market",
+        "category": "market",
+        "interests": [
+          "shopping",
+          "nightlife",
+          "food"
+        ],
+        "latitude": 51.5415,
+        "longitude": -0.1466,
+        "suggested_duration_minutes": 90,
+        "popularity": 60,
+        "neighbourhood": "Camden Town",
+        "description": "Cluster of markets and music venues.",
+        "osm_ref": "node/3608653828",
+        "verified_on": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country_name": "Spain",
+    "country_code": "ES",
+    "currency_code": "EUR",
+    "timezone": "Europe/Madrid",
+    "latitude": 41.3874,
+    "longitude": 2.1686,
+    "best_season": "Spring and autumn are comfortable; summer is hot and busy.",
+    "summary": "Catalan capital on the Mediterranean, known for Gaudí's buildings, the old town and beaches.",
+    "places": [
+      {
+        "slug": "sagrada-familia",
+        "name": "Sagrada Família",
+        "category": "landmark",
+        "interests": [
+          "architecture"
+        ],
+        "latitude": 41.4036,
+        "longitude": 2.1744,
+        "suggested_duration_minutes": 120,
+        "popularity": 98,
+        "neighbourhood": "Eixample",
+        "description": "Basilica designed by Antoni Gaudí, still under construction.",
+        "osm_ref": "relation/9194723",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "park-guell",
+        "name": "Park Güell",
+        "category": "park",
+        "interests": [
+          "architecture",
+          "nature"
+        ],
+        "latitude": 41.4145,
+        "longitude": 2.1527,
+        "suggested_duration_minutes": 120,
+        "popularity": 88,
+        "neighbourhood": "Gràcia",
+        "description": "Hillside park with Gaudí-designed structures.",
+        "osm_ref": "way/66713401",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "casa-batllo",
+        "name": "Casa Batlló",
+        "category": "landmark",
+        "interests": [
+          "architecture"
+        ],
+        "latitude": 41.3916,
+        "longitude": 2.1649,
+        "suggested_duration_minutes": 75,
+        "popularity": 85,
+        "neighbourhood": "Eixample",
+        "description": "Gaudí-remodelled building on Passeig de Gràcia.",
+        "osm_ref": "relation/9427554",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "la-boqueria",
+        "name": "La Boqueria",
+        "category": "market",
+        "interests": [
+          "food"
+        ],
+        "latitude": 41.3817,
+        "longitude": 2.1717,
+        "suggested_duration_minutes": 60,
+        "popularity": 85,
+        "neighbourhood": "Ciutat Vella",
+        "description": "Large public market off La Rambla.",
+        "osm_ref": "relation/6288735",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "barri-gotic",
+        "name": "Barri Gòtic",
+        "category": "neighbourhood",
+        "interests": [
+          "history",
+          "architecture"
+        ],
+        "latitude": 41.3833,
+        "longitude": 2.1767,
+        "suggested_duration_minutes": 120,
+        "popularity": 85,
+        "neighbourhood": "Ciutat Vella",
+        "description": "Medieval centre of the old city.",
+        "osm_ref": "relation/4127655",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "picasso-museum",
+        "name": "Picasso Museum",
+        "category": "museum",
+        "interests": [
+          "museums"
+        ],
+        "latitude": 41.3852,
+        "longitude": 2.1807,
+        "suggested_duration_minutes": 90,
+        "popularity": 75,
+        "neighbourhood": "El Born",
+        "description": "Museum of early works by Pablo Picasso.",
+        "osm_ref": "way/188938001",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "montjuic-castle",
+        "name": "Montjuïc Castle",
+        "category": "landmark",
+        "interests": [
+          "history",
+          "nature"
+        ],
+        "latitude": 41.3639,
+        "longitude": 2.1661,
+        "suggested_duration_minutes": 120,
+        "popularity": 70,
+        "neighbourhood": "Montjuïc",
+        "description": "Hilltop fortress with city and port views.",
+        "osm_ref": "relation/19658818",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "barceloneta-beach",
+        "name": "Barceloneta Beach",
+        "category": "park",
+        "interests": [
+          "relaxation"
+        ],
+        "latitude": 41.3784,
+        "longitude": 2.1925,
+        "suggested_duration_minutes": 120,
+        "popularity": 70,
+        "neighbourhood": "Barceloneta",
+        "description": "Urban beach on the Mediterranean.",
+        "osm_ref": "relation/7333373",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "santa-maria-del-mar",
+        "name": "Santa Maria del Mar",
+        "category": "landmark",
+        "interests": [
+          "architecture",
+          "history",
+          "nightlife"
+        ],
+        "latitude": 41.3838,
+        "longitude": 2.1819,
+        "suggested_duration_minutes": 60,
+        "popularity": 70,
+        "neighbourhood": "El Born",
+        "description": "Catalan Gothic basilica in a lively neighbourhood.",
+        "osm_ref": "way/51260215",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "museu-nacional-d-art-de-catalunya",
+        "name": "Museu Nacional d'Art de Catalunya",
+        "category": "museum",
+        "interests": [
+          "museums",
+          "architecture"
+        ],
+        "latitude": 41.3685,
+        "longitude": 2.1534,
+        "suggested_duration_minutes": 120,
+        "popularity": 70,
+        "neighbourhood": "Montjuïc",
+        "description": "Museum of Catalan art in the Palau Nacional.",
+        "osm_ref": "node/14075577293",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "palau-de-la-musica-catalana",
+        "name": "Palau de la Música Catalana",
+        "category": "landmark",
+        "interests": [
+          "architecture"
+        ],
+        "latitude": 41.3875,
+        "longitude": 2.1751,
+        "suggested_duration_minutes": 60,
+        "popularity": 70,
+        "neighbourhood": "Sant Pere",
+        "description": "Modernista concert hall.",
+        "osm_ref": "way/377216661",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "passeig-de-gracia",
+        "name": "Passeig de Gràcia",
+        "category": "shopping",
+        "interests": [
+          "shopping",
+          "architecture"
+        ],
+        "latitude": 41.3951,
+        "longitude": 2.162,
+        "suggested_duration_minutes": 60,
+        "popularity": 60,
+        "neighbourhood": "Eixample",
+        "description": "Main boulevard of fashion shops and Modernista buildings.",
+        "osm_ref": "way/908375881",
+        "verified_on": "2026-10-20"
+      },
+      {
+        "slug": "bunkers-del-carmel",
+        "name": "Bunkers del Carmel",
+        "category": "park",
+        "interests": [
+          "relaxation",
+          "nature"
+        ],
+        "latitude": 41.4192,
+        "longitude": 2.1618,
+        "suggested_duration_minutes": 60,
+        "popularity": 55,
+        "neighbourhood": "Carmel",
+        "description": "Hilltop viewpoint on the site of Civil War anti-aircraft batteries.",
+        "osm_ref": "way/142894789",
+        "verified_on": "2026-10-20"
+      }
+    ]
+  }
+]

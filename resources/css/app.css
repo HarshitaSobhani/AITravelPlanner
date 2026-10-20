@@ -1,0 +1,209 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+    --font-sans:
+        'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+@layer base {
+    :root {
+        --background: 40 38% 96%;
+        --foreground: 45 8% 16%;
+        --card: 42 50% 99%;
+        --card-foreground: 45 8% 16%;
+        --popover: 42 50% 99%;
+        --popover-foreground: 45 8% 16%;
+        --primary: 177 52% 27%;
+        --primary-foreground: 40 38% 97%;
+        --secondary: 98 18% 88%;
+        --secondary-foreground: 100 25% 20%;
+        --muted: 40 30% 92%;
+        --muted-foreground: 42 8% 36%;
+        --accent: 14 45% 91%;
+        --accent-foreground: 14 60% 28%;
+        --destructive: 6 68% 44%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 40 22% 83%;
+        --input: 40 22% 78%;
+        --ring: 177 52% 34%;
+        --chart-1: 14 58% 52%;
+        --chart-2: 177 50% 32%;
+        --chart-3: 100 25% 42%;
+        --chart-4: 43 74% 56%;
+        --chart-5: 27 70% 52%;
+        --radius: 0.75rem;
+        --sidebar-background: 40 38% 96%;
+        --sidebar-foreground: 45 8% 26%;
+        --sidebar-primary: 177 52% 27%;
+        --sidebar-primary-foreground: 40 38% 97%;
+        --sidebar-accent: 40 30% 90%;
+        --sidebar-accent-foreground: 45 8% 20%;
+        --sidebar-border: 40 22% 83%;
+        --sidebar-ring: 177 52% 34%;
+    }
+
+    .dark {
+        --background: 180 12% 8%;
+        --foreground: 40 25% 92%;
+        --card: 180 10% 11%;
+        --card-foreground: 40 25% 92%;
+        --popover: 180 10% 11%;
+        --popover-foreground: 40 25% 92%;
+        --primary: 173 42% 52%;
+        --primary-foreground: 180 20% 8%;
+        --secondary: 100 10% 20%;
+        --secondary-foreground: 40 25% 92%;
+        --muted: 180 8% 16%;
+        --muted-foreground: 40 12% 68%;
+        --accent: 14 30% 22%;
+        --accent-foreground: 14 70% 84%;
+        --destructive: 6 70% 56%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 180 8% 22%;
+        --input: 180 8% 26%;
+        --ring: 173 42% 52%;
+        --chart-1: 14 70% 62%;
+        --chart-2: 173 42% 52%;
+        --chart-3: 100 30% 56%;
+        --chart-4: 43 74% 66%;
+        --chart-5: 27 80% 62%;
+        --sidebar-background: 180 12% 8%;
+        --sidebar-foreground: 40 25% 90%;
+        --sidebar-primary: 173 42% 52%;
+        --sidebar-primary-foreground: 180 20% 8%;
+        --sidebar-accent: 180 8% 16%;
+        --sidebar-accent-foreground: 40 25% 90%;
+        --sidebar-border: 180 8% 22%;
+        --sidebar-ring: 173 42% 52%;
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border;
+    }
+
+    body {
+        @apply bg-background text-foreground;
+    }
+
+    :focus-visible {
+        @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Fraunces', Georgia, serif;
+        letter-spacing: -0.01em;
+    }
+}
+
+@layer components {
+    .container-rw {
+        @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+    }
+
+    .btn {
+        @apply inline-flex min-h-[2.5rem] items-center justify-center gap-2 rounded-lg border border-transparent px-4 py-2 text-sm font-semibold transition disabled:cursor-not-allowed disabled:opacity-50;
+    }
+
+    .btn-primary {
+        @apply btn bg-primary text-primary-foreground hover:opacity-90;
+    }
+
+    .btn-outline {
+        @apply btn border-border bg-card text-foreground hover:bg-muted;
+    }
+
+    .btn-terra {
+        @apply btn bg-terra-500 text-white hover:bg-terra-600;
+    }
+
+    .btn-danger {
+        @apply btn border-destructive/40 bg-card text-destructive hover:bg-destructive/10;
+    }
+
+    .btn-ghost {
+        @apply btn px-2 text-muted-foreground hover:bg-muted hover:text-foreground;
+    }
+
+    .btn-sm {
+        @apply min-h-[2rem] px-3 py-1 text-xs;
+    }
+
+    .field {
+        @apply w-full rounded-lg border border-input bg-card px-3 py-2 text-sm text-foreground placeholder:text-muted-foreground;
+    }
+
+    .field[aria-invalid='true'] {
+        @apply border-destructive;
+    }
+
+    .label {
+        @apply mb-1 block text-sm font-medium text-foreground;
+    }
+
+    .hint {
+        @apply mt-1 text-xs text-muted-foreground;
+    }
+
+    .err {
+        @apply mt-1 text-xs font-medium text-destructive;
+    }
+
+    .panel {
+        @apply rounded-2xl border border-border bg-card shadow-sm;
+    }
+
+    .chip {
+        @apply inline-flex items-center gap-1 rounded-full border border-border bg-muted px-3 py-1 text-xs font-medium text-foreground;
+    }
+
+    .chip-on {
+        @apply border-primary bg-primary text-primary-foreground;
+    }
+
+    .tab {
+        @apply -mb-px border-b-2 border-transparent px-4 py-3 text-sm font-semibold text-muted-foreground hover:text-foreground;
+    }
+
+    .tab[aria-selected='true'] {
+        @apply border-terra-500 text-foreground;
+    }
+
+    .eyebrow {
+        @apply text-xs font-semibold uppercase tracking-[0.14em] text-terra-600;
+    }
+}
+
+.leaflet-container {
+    font-family: inherit;
+}
+
+.rw-marker {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 9999px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 0.4);
+}
+
+.rw-marker.sel {
+    outline: 3px solid #c4623f;
+}
+
+@media print {
+    .no-print {
+        display: none !important;
+    }
+}
